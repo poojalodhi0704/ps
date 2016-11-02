@@ -5,6 +5,7 @@ import java.util.Scanner;
  */
 public class Solution4545 {
     public static void main(String[] args) {
+        //New change to show the power of Git
         Scanner console = new Scanner(System.in);
         String s = console.nextLine();
         String t = console.nextLine();
