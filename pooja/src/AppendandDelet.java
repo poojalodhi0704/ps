@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by Mario on 11/1/16.
+ * Created by Mario on 11/1/16.//love
  */
 public class AppendandDelet {
     public static void main(String[] args) {
